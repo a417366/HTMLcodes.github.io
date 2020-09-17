@@ -5,7 +5,8 @@
 |405 Method Not Allowed |The API URL was found, but no operation was found that supports the requested HTTP verb.|
 |406 Not Acceptable |The API cannot produce any responses that are supported by the application|
 |500 Internal Server Error |An error occurred while executing this request.|
-|503 Service Unavailable |The status of an API was switched from online to offline, making the API unavailable across all Products in which it is contained|
+|503 Service Unavailable |The status of an API was switched from online to offline, making the API unavailable across all Products in which it is contained
+<br/>For more information, see Managing your Products in the API Manager UI and Managing API Products using the developer toolkit.|
 
 <br/><br/>
 <br/><br/>
