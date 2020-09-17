@@ -6,3 +6,11 @@
 |406 Not Acceptable |The API cannot produce any responses that are supported by the application|
 |500 Internal Server Error |An error occurred while executing this request.|
 |503 Service Unavailable |The status of an API was switched from online to offline, making the API unavailable across all Products in which it is contained|
+
+<br/><br/>
+Example Payload<br/>
+{<br/>
+"httpCode": "401",<br/>
+"httpMessage": "Unauthorized",<br/>
+"moreInformation": "This server could not verify that you are authorized to access the URL"<br/>
+}<br/>
