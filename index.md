@@ -8,6 +8,7 @@
 |503 Service Unavailable |The status of an API was switched from online to offline, making the API unavailable across all Products in which it is contained|
 
 <br/><br/>
+<br/><br/>
 Example Payload<br/>
 {<br/>
 "httpCode": "401",<br/>
